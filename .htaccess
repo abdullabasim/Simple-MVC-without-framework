@@ -1,5 +1,5 @@
 RewriteEngine On
-RewriteBase /blog
+RewriteBase /Simple-MVC-without-framework
 
 # Redirect all requests to the index.php file
 RewriteCond %{REQUEST_FILENAME} !-f
